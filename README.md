@@ -4,6 +4,9 @@
 >>[MyBatis Generator](http://www.mybatis.org/generator/index.html)  
 >>#### 可以直接使用，将项目导入eclipse(Maven)，然后再把sql导入MySQL数据库就OK了。
 ---
+### 在线展示
+>>[用户信息展示（如有问题，多刷新几下试试）](http://182.61.136.218:8080/crud)
+---
 ### 技术栈
 **spring** **springmvc** **mybatis** **mysql** **ajax** **jquery** **bootstrap前端框架**
 ### 预览
