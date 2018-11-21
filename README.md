@@ -1,4 +1,4 @@
-# SSM-CRUD
+# ssm-crud
 ### 这是一个基于SSM框架的 简易的 增删改查 功能，通过Maven整合。
 >>### 使用了mybatis逆向工程 自动生成代码（具体请参考以下链接）
 >>[MyBatis Generator](http://www.mybatis.org/generator/index.html)  
