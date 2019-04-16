@@ -1,11 +1,9 @@
+<font color=Blue>我是蓝色</font>
 # ssm-crud
 ### 这是一个基于SSM框架的 简易的 增删改查 功能，通过Maven整合。
 >>### 使用了mybatis逆向工程 自动生成代码（具体请参考以下链接）
 >>[MyBatis Generator](http://www.mybatis.org/generator/index.html)  
 >>#### 可以直接使用，将项目导入eclipse(Maven)，然后再把sql导入MySQL数据库就OK了。
-
-<span style="color: red">测试</span>
-
 ---
 ### 在线展示
 >>[用户信息展示（如有问题，多刷新几下试试）](http://182.61.136.218:8080/crud)
